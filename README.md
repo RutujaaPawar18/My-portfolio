@@ -6,7 +6,7 @@ This project showcases my skills, projects, and passion for web development.
 ---
 
 ## 🌐 Live Preview  
-[🔗 View Website](https://rutujapawar18.github.io/My-portfolio/) *(Hosted on GitHub Pages)*
+[🔗 View Website]https://rutujaapawar18.github.io/My-portfolio/ *(Hosted on GitHub Pages)*
 
 ---
 
